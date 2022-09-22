@@ -7,6 +7,6 @@ transaction_price - reported transaction price of an apartment;
 square_meters - an area of an apartment in square meters;
 num_bedrooms - number of bedrooms in an apartment;
 floor - on which floor an apartment is located;
-The most common way to reduce transfer tax is to under-declare the transaction price while receiving more value for a deal.
 
-Based on the given dataset, please investigate if there is any evidence of tax evasion.
+The most common way to reduce transfer tax is to under-declare the transaction price while receiving more value for a deal.
+So we're going to investigate if there is any evidence of tax evasion.
